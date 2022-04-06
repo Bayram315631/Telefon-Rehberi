@@ -1,0 +1,20 @@
+C:\Users\MABLO\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe.config
+C:\Users\MABLO\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe
+C:\Users\MABLO\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.pdb
+C:\Users\MABLO\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csprojAssemblyReference.cache
+C:\Users\MABLO\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Form1.resources
+C:\Users\MABLO\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Properties.Resources.resources
+C:\Users\MABLO\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.GenerateResource.cache
+C:\Users\MABLO\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\MABLO\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.exe
+C:\Users\MABLO\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.pdb
+C:\Users\Administrator\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe.config
+C:\Users\Administrator\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.exe
+C:\Users\Administrator\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\bin\Debug\Telefon Rehberi.pdb
+C:\Users\Administrator\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Form1.resources
+C:\Users\Administrator\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon_Rehberi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.exe
+C:\Users\Administrator\Desktop\Görsel Programlama\Telefon Rehberi\Telefon Rehberi\obj\Debug\Telefon Rehberi.pdb
